@@ -5,3 +5,6 @@
 	path = software/firmware/Marlin_TAZ45_Kanyu_1.0.0.1
 	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
 
+[submodule "software/firmware/Marlin_Olivebranch_Kanyu_v1.0.2.20_781b52a"]
+	path = software/firmware/Marlin_Olivebranch_Kanyu_v1.0.2.20_781b52a
+	url = https://code.alephobjects.com/diffusion/MARLIN/marlin.git
